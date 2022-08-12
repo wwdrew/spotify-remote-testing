@@ -5457,6 +5457,11 @@ react-native-gradle-plugin@^0.0.7:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.7.tgz#96602f909745239deab7b589443f14fce5da2056"
   integrity sha512-+4JpbIx42zGTONhBTIXSyfyHICHC29VTvhkkoUOJAh/XHPEixpuBduYgf6Y4y9wsN1ARlQhBBoptTvXvAFQf5g==
 
+react-native-spotify-remote@^1.0.0-1:
+  version "1.0.0-1"
+  resolved "https://registry.yarnpkg.com/react-native-spotify-remote/-/react-native-spotify-remote-1.0.0-1.tgz#a529d061fe39bf643cd1fbe9d9f75360cfaf6239"
+  integrity sha512-NfB/w+hIqwd5cpyGkYpfxWoQ0NL/x8iGkec/8shlmAPXN7Qdu5VKKedNmPyxn10G6dI3HrJY6nglRVvaxbDSsA==
+
 react-native@0.69.4:
   version "0.69.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.69.4.tgz#d66f2a117442a9398b065876afdc568b209dc4da"
